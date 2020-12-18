@@ -1,0 +1,10 @@
+{
+    "name": "alstradocs/writing-php",
+    "authors": [
+        {
+            "name": "Edward Banfa",
+            "email": "ebanfa@gmail.com"
+        }
+    ],
+    "require": {}
+}
